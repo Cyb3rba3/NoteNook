@@ -1,2 +1,5 @@
-# NoteNook
-This repo is my dedicated corner for cybersecurity exploration and lifelong learning
+| 𝖢𝗅𝗂𝖼𝗄𝗂𝖾𝗌 | 𝖨𝗇𝖿𝗈 |
+|:---------:|:-------:|
+| [Dummy Placeholder](https://example.com/alpha) | Placeholder link for testing. |
+| [Dummy Placeholder](https://example.com/beta)  | Placeholder link for testing. |
+| [Dummy Placeholder](https://example.com/gamma) | Placeholder link for testing. |
