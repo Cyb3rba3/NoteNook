@@ -1,5 +1,5 @@
 | 𝖢𝗅𝗂𝖼𝗄𝗂𝖾𝗌 | 𝖨𝗇𝖿𝗈 |
 |:---------:|:-------:|
-| [Dummy Placeholder](https://example.com/alpha) | Placeholder link for testing. |
-| [Dummy Placeholder](https://example.com/beta)  | Placeholder link for testing. |
-| [Dummy Placeholder](https://example.com/gamma) | Placeholder link for testing. |
+| [1. Pre-Security](https://github.com/Cyb3rba3/NoteNook/blob/main/PreSecurity%20by%20TryHackMe.pdf) | My Study Notes from TryHackMe's Pre-Security Path |
+| [2. Security 101 ](https://github.com/Cyb3rba3/NoteNook/blob/main/Security101%20by%20TryHackMe.pdf)  | My Study Notes from TryHackMe's Security 101 Path |
+<!--| [Dummy Placeholder](https://example.com/gamma) | Placeholder link for testing. |-->
